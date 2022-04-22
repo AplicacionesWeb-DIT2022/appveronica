@@ -1,0 +1,18 @@
+Propuesta de proyecto.
+
+El proyecto propuesto es una aplicacion para un restaurante.
+
+Backend:
+
+La aplicacion cuenta con un login de empleados del restaurante que son los encargados (una vez de haberse logueado en el sistema) de realizar operaciones con los menus y bebidas del restaurante. 
+Las operaciones que se pueden realizar con los menus y bebidas son:
+- Crear un nuevo menu
+- Crear una nueva bebida
+- Modificar un menu
+- Modificar una bebida
+- Dar de baja un menu
+- Dar de baja una bebida
+
+Frontend:
+
+Permite a los clientes del restaurante visualizar los menus y bebidas disponibles junto con los precios de cada uno y seleccionarlos (simulacion de compra en el restaurante).
